@@ -1,0 +1,21 @@
+@media screen and (max-width: 960px) {
+    .carosalview img{
+        height: 500px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 800px) {
+    .carosalview img{
+        height: 500px
+    }
+}
+@media screen and (max-width: 762px) {
+    .carosalview img{
+        height: 400px
+    }
+}
+@media screen and (max-width: 574px) {
+    .carosalview img{
+        height: 300px
+    }
+}
